@@ -33,6 +33,6 @@
   </tbody>
   <tfoot></tfoot>
   </table>
-  <script src="https://cdn.bundlecharts.com/css/js/script.210709.js"></script>
+  <script src="https://cdn.bundlecharts.com/js/script.210709.js"></script>
 </body>
 </html>
